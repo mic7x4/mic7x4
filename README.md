@@ -1,6 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mic7x4&show_icons=true&theme=jolly)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic7x4&layout=compact)](https://github.com/mic7x4/github-readme-stats)
-
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mic7x4&show_icons=true&theme=jolly)  
 <!--
 **mic7x4/mic7x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
