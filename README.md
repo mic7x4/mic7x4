@@ -1,5 +1,5 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mic7x4&show_icons=true&theme=jolly)<br><br>
-<img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mic7x4&show_icons=true&theme=jolly)
+<img align="right"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <!--
 **mic7x4/mic7x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
