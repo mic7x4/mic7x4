@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mic7x4&show_icons=true&theme=jolly)  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mic7x4&show_icons=true&theme=jolly)   ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
 <!--
 **mic7x4/mic7x4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
